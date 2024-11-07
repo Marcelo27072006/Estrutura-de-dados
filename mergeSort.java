@@ -1,6 +1,3 @@
-//fonte de criação: https://youtu.be/5prE6Mz8Vh0?si=5g-1pe5TqbzJ8U8R
-//fonte de complexidade: https://youtu.be/tbmoqifyaDs?si=S31GCAN2PTnPjKvg
-
 public class mergeSort {
     public static void mergeSort(int[] lista, int inicio, int fim) {
         //condição que divide a lista em sublista até 1
@@ -142,6 +139,3 @@ public class mergeSort {
         }
     }
 }
-
-
-//fonte: https://youtu.be/tbmoqifyaDs?si=S31GCAN2PTnPjKvg
